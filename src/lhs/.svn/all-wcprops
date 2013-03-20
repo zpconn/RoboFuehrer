@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs
+END
+Vec2.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/Vec2.java
+END
+GuessFactorGun.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/GuessFactorGun.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/Utils.java
+END
+Firepower.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/Firepower.java
+END
+GunStatsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/GunStatsManager.java
+END
+MusashiTrick.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/MusashiTrick.java
+END
+MovementPredictor.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/MovementPredictor.java
+END
+MovementInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/MovementInfo.java
+END
+RandomOrbitalMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/RandomOrbitalMovement.java
+END
+EnemyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/EnemyManager.java
+END
+MovementStrategyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/MovementStrategyManager.java
+END
+HeadOnGun.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/HeadOnGun.java
+END
+Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/Manager.java
+END
+BattleSituation.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/BattleSituation.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/Constants.java
+END
+MovementStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/MovementStrategy.java
+END
+MinimumRiskMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/MinimumRiskMovement.java
+END
+Battlefield.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/Battlefield.java
+END
+EnemyBulletManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/EnemyBulletManager.java
+END
+EnemyBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/EnemyBot.java
+END
+RoboFuehrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/RoboFuehrer.java
+END
+LinearGun.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/LinearGun.java
+END
+RadarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/RadarManager.java
+END
+MovementManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/MovementManager.java
+END
+BinsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/BinsManager.java
+END
+Gun.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/Gun.java
+END
+WaveManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/RoboFuehrer/src/lhs/WaveManager.java
+END
